@@ -1,5 +1,6 @@
 
 # Initialisierung
+# v1.2
 
 geheimzahl = 4712
 eingabe = 0
