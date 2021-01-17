@@ -1,3 +1,0 @@
-# Fom Dortmund 
-
-Python Kurs 
